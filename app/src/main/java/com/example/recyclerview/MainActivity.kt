@@ -40,6 +40,7 @@ class MainActivity : AppCompatActivity() {
 
         // Setting the Adapter with the recyclerview
         recyclerview.adapter = adapter
+        //load_interestitialAds(this)
 
     }
 }
